@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/keeper-app-recreation/static/css/main.cfd27e5e.chunk.css",
+    "main.js": "/keeper-app-recreation/static/js/main.db12fe07.chunk.js",
+    "main.js.map": "/keeper-app-recreation/static/js/main.db12fe07.chunk.js.map",
+    "runtime-main.js": "/keeper-app-recreation/static/js/runtime-main.b5c22c4a.js",
+    "runtime-main.js.map": "/keeper-app-recreation/static/js/runtime-main.b5c22c4a.js.map",
+    "static/js/2.44c1cc75.chunk.js": "/keeper-app-recreation/static/js/2.44c1cc75.chunk.js",
+    "static/js/2.44c1cc75.chunk.js.map": "/keeper-app-recreation/static/js/2.44c1cc75.chunk.js.map",
+    "static/js/3.c8afb71b.chunk.js": "/keeper-app-recreation/static/js/3.c8afb71b.chunk.js",
+    "static/js/3.c8afb71b.chunk.js.map": "/keeper-app-recreation/static/js/3.c8afb71b.chunk.js.map",
+    "index.html": "/keeper-app-recreation/index.html",
+    "static/css/main.cfd27e5e.chunk.css.map": "/keeper-app-recreation/static/css/main.cfd27e5e.chunk.css.map",
+    "static/js/2.44c1cc75.chunk.js.LICENSE.txt": "/keeper-app-recreation/static/js/2.44c1cc75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5c22c4a.js",
+    "static/js/2.44c1cc75.chunk.js",
+    "static/css/main.cfd27e5e.chunk.css",
+    "static/js/main.db12fe07.chunk.js"
+  ]
+}
