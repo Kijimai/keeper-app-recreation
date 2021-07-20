@@ -5,4 +5,14 @@ footer {
   height: 10rem;
   background-color: var(--color-orange-yellow);
   padding: 2rem 0;
+  text-align: center;
+}
+
+.footer-links {
+  margin-bottom: 0.5rem;
+}
+
+.copy {
+  font-size: 1.2rem;
+  font-weight: 600;
 }

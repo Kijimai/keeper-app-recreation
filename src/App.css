@@ -1,25 +1,30 @@
-
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+:root {
+  --color-orange-yellow: #f5ba13;
+  --color-white: #fff;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+html {
+  font-size: 10px;
+  box-sizing: border-box;
 }
 
-.App-link {
-  color: #61dafb;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body {
+  min-height: 100vh;
+  overflow: hidden;
+  font-family: sans-serif;
+}
+
+.fab {
+  font-size: 5rem;
+  color: var(--color-white);
+}
+
+.fab:hover {
+  color: black;
 }
